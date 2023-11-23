@@ -11,12 +11,12 @@ SoftwareSerial espSerial(2, 3); // RX (ESP) to 2, TX (ESP) to 3
 
 // Define your Wi-Fi credentials
 const char* ssid = "koti_Dm4h";
-const char* password = "KMGDFBQ7C4YQK";
+const char* password = " ";
 
 // Define ThingSpeak parameters
 const char* thingSpeakAddress = "api.thingspeak.com";
-const String apiKey = "MWP090H4QA32CNVG"; // Replace with your ThingSpeak API Key
-const long channelID = 2190214; // Replace with your ThingSpeak Channel ID
+const String apiKey = " "; // Replace with your ThingSpeak API Key
+const long channelID = ; // Replace with your ThingSpeak Channel ID
 
 // ...
 
